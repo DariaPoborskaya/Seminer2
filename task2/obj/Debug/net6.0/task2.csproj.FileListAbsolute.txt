@@ -1,0 +1,15 @@
+/Users/poborskaya/Desktop/seminar2c#/task2/bin/Debug/net6.0/task2
+/Users/poborskaya/Desktop/seminar2c#/task2/bin/Debug/net6.0/task2.deps.json
+/Users/poborskaya/Desktop/seminar2c#/task2/bin/Debug/net6.0/task2.runtimeconfig.json
+/Users/poborskaya/Desktop/seminar2c#/task2/bin/Debug/net6.0/task2.dll
+/Users/poborskaya/Desktop/seminar2c#/task2/bin/Debug/net6.0/task2.pdb
+/Users/poborskaya/Desktop/seminar2c#/task2/obj/Debug/net6.0/task2.csproj.AssemblyReference.cache
+/Users/poborskaya/Desktop/seminar2c#/task2/obj/Debug/net6.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poborskaya/Desktop/seminar2c#/task2/obj/Debug/net6.0/task2.AssemblyInfoInputs.cache
+/Users/poborskaya/Desktop/seminar2c#/task2/obj/Debug/net6.0/task2.AssemblyInfo.cs
+/Users/poborskaya/Desktop/seminar2c#/task2/obj/Debug/net6.0/task2.csproj.CoreCompileInputs.cache
+/Users/poborskaya/Desktop/seminar2c#/task2/obj/Debug/net6.0/task2.dll
+/Users/poborskaya/Desktop/seminar2c#/task2/obj/Debug/net6.0/refint/task2.dll
+/Users/poborskaya/Desktop/seminar2c#/task2/obj/Debug/net6.0/task2.pdb
+/Users/poborskaya/Desktop/seminar2c#/task2/obj/Debug/net6.0/task2.genruntimeconfig.cache
+/Users/poborskaya/Desktop/seminar2c#/task2/obj/Debug/net6.0/ref/task2.dll
