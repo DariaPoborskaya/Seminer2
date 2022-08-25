@@ -1,0 +1,15 @@
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/bin/Debug/net6.0/HomeTask2
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/bin/Debug/net6.0/HomeTask2.deps.json
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/bin/Debug/net6.0/HomeTask2.runtimeconfig.json
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/bin/Debug/net6.0/HomeTask2.dll
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/bin/Debug/net6.0/HomeTask2.pdb
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/obj/Debug/net6.0/HomeTask2.csproj.AssemblyReference.cache
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/obj/Debug/net6.0/HomeTask2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/obj/Debug/net6.0/HomeTask2.AssemblyInfoInputs.cache
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/obj/Debug/net6.0/HomeTask2.AssemblyInfo.cs
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/obj/Debug/net6.0/HomeTask2.csproj.CoreCompileInputs.cache
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/obj/Debug/net6.0/HomeTask2.dll
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/obj/Debug/net6.0/refint/HomeTask2.dll
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/obj/Debug/net6.0/HomeTask2.pdb
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/obj/Debug/net6.0/HomeTask2.genruntimeconfig.cache
+/Users/poborskaya/Desktop/seminar2c#/HomeTask2/obj/Debug/net6.0/ref/HomeTask2.dll
